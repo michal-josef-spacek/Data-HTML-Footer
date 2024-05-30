@@ -20,6 +20,7 @@ readme_from 'Footer.pm';
 recursive_author_tests('xt');
 requires 'Mo' => 0;
 requires 'Mo::utils::CSS' => 0.06;
+requires 'Mo::utils::URI' => 0;
 resources 'bugtracker' => 'https://github.com/michal-josef-spacek/Data-HTML-Footer/issues';
 resources 'homepage' => 'https://github.com/michal-josef-spacek/Data-HTML-Footer';
 resources 'repository' => 'git://github.com/michal-josef-spacek/Data-HTML-Footer';
