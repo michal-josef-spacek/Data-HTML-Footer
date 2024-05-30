@@ -19,5 +19,12 @@ META.yml
 README
 t/Data-HTML-Footer/01-use.t
 t/Data-HTML-Footer/02-version.t
+t/Data-HTML-Footer/03-new.t
+t/Data-HTML-Footer/04-author.t
+t/Data-HTML-Footer/05-author_url.t
+t/Data-HTML-Footer/06-copyright_years.t
+t/Data-HTML-Footer/07-height.t
+t/Data-HTML-Footer/08-version.t
+t/Data-HTML-Footer/09-version_url.t
 xt/Data-HTML-Footer/01-pod_coverage.t
 xt/Data-HTML-Footer/02-pod.t
