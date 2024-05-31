@@ -1,6 +1,5 @@
 TODO
 ====
-1. Doc
 3. Check copyright years in code.
 4.
 
@@ -9,3 +8,6 @@ Applied
 2. Tests.
 Test errors in constructor.
 OK [20240530] skim
+
+1. Doc
+OK [20240531] skim
