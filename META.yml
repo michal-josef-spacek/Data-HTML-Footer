@@ -26,7 +26,7 @@ no_index:
     - xt
 requires:
   Mo: 0
-  Mo::utils::CSS: 0.06
+  Mo::utils::CSS: 0.07
   Mo::utils::URI: 0
   perl: 5.8.0
 resources:
